@@ -1,0 +1,14 @@
+.footer__link {
+    color: #ececf1;
+    font-style: italic;
+    font-weight: 700;
+    font-size: small;
+}
+
+.footer__paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.changeFooter {
+    background-color: #00010a;
+}

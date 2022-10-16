@@ -1,0 +1,42 @@
+.list {
+    padding-left: 30px;
+    line-height: 1.5;
+    color: #00010a;
+}
+
+.list__item {
+    list-style-type: none;
+    text-align: justify;
+}
+
+.list__item--courseItem {
+    list-style-type: square;
+}
+
+.list__item--languageItem {
+    list-style-type: "\2714";
+    padding-left: 5px;
+}
+
+.list__item--hobbyList {
+    list-style-type: disc;
+}
+
+.list__strong {
+    color: #0712ac;
+    text-decoration: underline;
+}
+
+.list__paragraph {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.list__span::before {
+    content: "\23F0";
+}
+
+.list__span::after {
+    content: "\1F4AA";
+}
+
+

@@ -1,0 +1,45 @@
+.article {
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.article__header {
+    color: #ececf1;
+    background-color: #02063e;
+    padding: 5px;
+}
+
+.article__subHeader {
+    color: #ececf1;
+    background-color: #02063e;
+    text-align: center;
+    padding: 5px;
+}
+
+.changeAllHeaders {
+    color: #dcdcf3;
+    background-color: #00010a;
+}
+
+.article__think {
+    color: #070707;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.article__linkContainer {
+    text-align: right;
+    padding: 0px;
+}
+
+.article__link {
+    color: #0712ac;
+    font-size: small;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.article__linkSpan::after {
+    content: "\1F446";
+    padding-left: 5px;
+}
