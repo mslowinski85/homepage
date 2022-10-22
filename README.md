@@ -1,6 +1,6 @@
 # Marek Słowiński - moja strona
 
-![Homepage](https://github.com/mslowinski85/homepage/blob/main/images/homepage.jpg)
+![Homepage](https://github.com/mslowinski85/homepage/blob/main/images/homepage.png)
 
 ## Adres strony
 
