@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://mslowinski85.github.io/homepage/
+Adres do strony: https://mslowinski85.github.io/homepage/
 
 ## Opis
 
