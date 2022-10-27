@@ -8,24 +8,27 @@
   const buttonElement = document.querySelector(".js-button");
 
   const buttonElementChange = () => {
-    if (buttonElement.innerText === "Change to dark") {
-      buttonElement.innerText = "Change to bright";
-      buttonElementToggle();
-      changeNavigationToggle();
-      changeBodyElementToggle();
-      headerElementsToggle();
-      changeFooter();
-      headerElementToggle();
-      subHeaderElementsToggle();
-    } else if (buttonElement.innerText === "Change to bright") {
-      buttonElement.innerText = "Change to dark";
-      buttonElementToggle();
-      changeNavigationToggle();
-      changeBodyElementToggle();
-      headerElementsToggle();
-      changeFooter();
-      headerElementToggle();
-      subHeaderElementsToggle();
+    switch (buttonElement.innerText) {
+      case "Change to dark":
+        buttonElement.innerText = "Change to bright";
+        buttonElementToggle();
+        changeNavigationToggle();
+        changeBodyElementToggle();
+        headerElementsToggle();
+        changeFooter();
+        headerElementToggle();
+        subHeaderElementsToggle();
+        break;
+      case "Change to bright":
+        buttonElement.innerText = "Change to dark";
+        buttonElementToggle();
+        changeNavigationToggle();
+        changeBodyElementToggle();
+        headerElementsToggle();
+        changeFooter();
+        headerElementToggle();
+        subHeaderElementsToggle();
+        break;
     }
   };
 
