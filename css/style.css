@@ -13,6 +13,8 @@ html {
     max-width: 1000px;
     margin: 0px auto;
     overflow-x: auto;
+    background-image: url("../images/background.jpg");
+    background-size: cover;
 }
 
 .changeBody {
