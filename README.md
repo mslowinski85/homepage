@@ -1,13 +1,17 @@
-# Marek Słowiński - moja strona
+# Marek Słowiński - homepage
 
-![Screen shot page](https://github.com/mslowinski85/homepage/blob/main/images/screen-shot.png)
+![Gif_Homepage](https://github.com/mslowinski85/homepage/blob/main/images/homepage-gif.gif)
 
-## Adres strony
+## Website address
 
 https://mslowinski85.github.io/homepage/
 
-## Opis
+## Description
 
-Witam Cię serdecznie na mojej pierwszej stronie internetowej. Znajdziesz tutaj wszelkie informacje dotyczące mojej osoby, począwszy od edukacji, mojej rodziny, poprzez karierę zawodową i ukończone kursy, a skończywszy na zainteresowaniach. Strona została wykonana w oparciu o HTML, CSS i JS. Jest efektem mojej pracy wykonanej podczas uczęszczania na kurs YouCode Krzyśka Dąbrowskiego i jego ekipy - "Frontend Developer od podstaw".
+Hello and wecome to my first website. You can find here some informations about me, my education, family, career and how can I spend my free time.   
+
+## Used technologies
+
+HTML, CSS, JS, BEM convention. 
 
 
